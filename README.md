@@ -1,18 +1,49 @@
+# Educational Web Application
 
-# Educational-web-application
+A responsive and interactive educational web application built using **HTML**, **CSS**, and **JavaScript**.
 
-**COMPANY**:CODTECH IT SOLUTIONS
+This project aims to create a student-focused learning interface that presents educational content, features practical UI elements, and serves as a foundation for future dynamic enhancements.
 
-**NAME**:TANMAY SUBHASH SAWAJI
+---
 
-**INTERN ID**:CT08FVN
+## 🌐 Live Demo
 
-**DOMAIN**:Frontend Web Development
+🚀 **Live Demo Link (GitHub Pages):**  
+https://github.com/tanmaysawaji-1/EDUCTIOANL-WEB-APPLICATION
 
-**BATCH DURATION**: December 25th, 2024 --- January 25th, 2025.
+---
 
-**MENTOR NAME**:Neela Santhosh Kumar
+## 📌 Overview
 
-**OUTPUT OF THE TASK**:![Image](https://github.com/user-attachments/assets/41251d5f-4546-4e7c-ad81-750bb8b86bcd)
+This project provides a clean and intuitive interface intended for educational purposes. It includes:
 
-![Image](https://github.com/user-attachments/assets/e6e4b0c9-87a7-4ace-ae87-cbf21e7a0a89)
+✔ Navigation menus  
+✔ Sectioned content areas  
+✔ Interactive UI components  
+✔ Simple layout and styling  
+✔ Designed using modern responsive techniques
+
+---
+
+## 🧠 Features
+
+- Fully static educational interface  
+- Mobile-friendly layout  
+- Clean styling and structured sections  
+- Simple navigation for content browsing
+
+---
+
+## 🛠️ Tech Stack
+
+This project uses:
+
+| Technology | Purpose |
+|------------|---------|
+| HTML5      | Structure |
+| CSS3       | Styling |
+| JavaScript | Interaction |
+
+---
+
+
